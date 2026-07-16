@@ -30,10 +30,16 @@ const defaultOptions: Options = {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
+    // Sort order: folders first, then files alphabetically.
+    // Within the same level, files with "session-hub" tag come first.
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+      // Check session-hub tag for pinning to top
+      const aTags = a.data?.tags || []
+      const bTags = b.data?.tags || []
+      const aIsHub = aTags.includes("session-hub")
+      const bIsHub = bTags.includes("session-hub")
+      if (aIsHub && !bIsHub) return -1
+      if (!aIsHub && bIsHub) return 1
       return a.displayName.localeCompare(b.displayName, undefined, {
         numeric: true,
         sensitivity: "base",

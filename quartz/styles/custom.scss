@@ -1,3 +1,120 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Force ALL dark mode variables to exact values
+// Override at every specificity level Quartz might use
+html {
+  --light: #0a140e;
+  --lightgray: #141f18;
+  --gray: #1e2e22;
+  --darkgray: #e8e4d8;
+  --dark: #f5f0e3;
+  --secondary: #d4ad6a;
+  --tertiary: #8fc87a;
+  --highlight: rgba(212, 173, 106, 0.12);
+  --textHighlight: rgba(212, 173, 106, 0.3);
+  --lightfill: rgba(232, 228, 216, 0.04);
+  --grayfill: rgba(232, 228, 216, 0.08);
+  --darkfill: rgba(232, 228, 216, 0.12);
+}
+
+body {
+  --light: #0a140e;
+  --lightgray: #141f18;
+  --gray: #1e2e22;
+  --darkgray: #e8e4d8;
+  --dark: #f5f0e3;
+  --secondary: #d4ad6a;
+  --tertiary: #8fc87a;
+  --highlight: rgba(212, 173, 106, 0.12);
+  --textHighlight: rgba(212, 173, 106, 0.3);
+  --lightfill: rgba(232, 228, 216, 0.04);
+  --grayfill: rgba(232, 228, 216, 0.08);
+  --darkfill: rgba(232, 228, 216, 0.12);
+}
+
+:root,
+:root[saved-theme="dark"],
+:root[saved-theme="light"] {
+  --light: #0a140e;
+  --lightgray: #141f18;
+  --gray: #1e2e22;
+  --darkgray: #e8e4d8;
+  --dark: #f5f0e3;
+  --secondary: #d4ad6a;
+  --tertiary: #8fc87a;
+  --highlight: rgba(212, 173, 106, 0.12);
+  --textHighlight: rgba(212, 173, 106, 0.3);
+  --lightfill: rgba(232, 228, 216, 0.04);
+  --grayfill: rgba(232, 228, 216, 0.08);
+  --darkfill: rgba(232, 228, 216, 0.12);
+}
+
+// Hero banner for index page
+.hero-banner {
+  background: linear-gradient(135deg, #1a3c2e 0%, #2d4a3a 40%, #4a7c59 70%, #7bab68 100%);
+  padding: 3rem 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: #f5f0e3;
+
+  .hero-title {
+    font-size: 2.8rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: #f5f0e3;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+  }
+
+  .hero-subtitle {
+    font-size: 1.15rem;
+    color: rgba(253, 248, 240, 0.85);
+    font-style: italic;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .hero-divider {
+    width: 60px;
+    height: 3px;
+    background: #d4ad6a;
+    margin: 1.2rem auto;
+    border: none;
+    border-radius: 2px;
+  }
+}
+
+// Blockquote styling - gold border
+blockquote {
+  border-left: 3px solid #d4ad6a;
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background: transparent;
+}
+
+// Card-styled links for hub pages
+h2 + ul li:has(> a[href]) {
+  a {
+    display: block;
+    padding: 0.6rem 1rem;
+    margin: 0.3rem 0;
+    border: 1px solid #141f18;
+    border-radius: 8px;
+    background: transparent;
+    transition: border-color 0.2s ease, transform 0.2s ease;
+    font-weight: 500;
+
+    &:hover {
+      border-color: #8fc87a;
+      transform: translateX(4px);
+    }
+  }
+}
+
+// Graph view node colors
+.graph {
+  .node {
+    fill: #8fc87a;
+  }
+}

@@ -97,6 +97,10 @@ export default (() => {
             return resource
           }
         })}
+        {/* Force dark theme without the toggle */}
+        <script is:inline>
+          document.documentElement.setAttribute("saved-theme", "dark")
+        </script>
       </head>
     )
   }
