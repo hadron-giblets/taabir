@@ -5,7 +5,7 @@ session_number: 14
 
 # Session 14: Financial Systems
 
-Four ideas from this session: the difference between what the state requires and what the organization actually chooses for decision-making, the operating projection as the core tool for testing whether a plan survives contact with reality, cash flow visibility as a survival discipline rather than an obsessive habit, and open book management as infrastructure for shared power rather than just a transparency gesture.
+Four ideas from this session: the difference between what the state requires and what the organization actually chooses for decisionmaking, the operating projection as the core tool for testing whether a plan survives contact with reality, cash flow visibility as a survival discipline rather than an obsessive habit, and open book management as infrastructure for shared power.
 
 ![[Compliance Keeps You Legal, Management Keeps You Alive]]
 

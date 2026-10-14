@@ -1,7 +1,7 @@
 ---
-title: Taabir
+title: Building the Next Economy
 description: "A community space building the solidarity economy in Irving, TX."
-date: 2026-07-16
+date: 2026-10-12
 publish: true
 ---
 
@@ -11,17 +11,26 @@ publish: true
 <div class="hero-subtitle">"The crossing," the point where people move from survival to possibility.</div>
 </div>
 
-A resource center for vocational training, cooperative business, and the solidarity economy in South Irving, Texas. This digital garden documents the thinking, the frameworks, and the planning behind it and is structured as a review of [LIFT Economy's](https://www.lifteconomy.com/) NextEconomy MBA program, which ran across 18 sessions.
+Taabir is a resource center for vocational training, cooperative business, and the solidarity economy in South Irving, Texas. This digital garden documents the thinking, the frameworks, and the planning behind it and is structured as a review of [LIFT Economy's](https://www.lifteconomy.com/) NextEconomy MBA program, which ran across 18 sessions.
 
 Touch, taste, explore.
+
+## Fellows' Entrance
+
+If you're one of the 2026–27 Taabir Fellows, this is a front door.
+
+A quick orientation: each session page is my field notes from that week of the MBA and cross-pollinates homework with lesson plan with later thoughts. Your fall syllabus runs through sessions 1–9.
 
 ## Start Here
 
 - [[The Welcome Room]] - the free, non-transactional space where everything begins
 - [[Burnout as Structural Failure]] - why the bylaws name burnout as a structural failure, and what that means in practice
 - [[Site Strategy]] - the phased plan for Taabir's first permanent home
-- [[Bylaws]] - the complete Community Covenant, built from community input
-- [[The Taabir Fellows]] - the team
+- [[Bylaws]] - the Community Covenant, our values layer, built from community input
+- [[Bylaws of Taabir USA]] - the legal layer, as drafted
+- [[Three Governance Documents]] - how the covenant, the bylaws, and the fiscal sponsorship fit together
+- [[Fiscal Sponsorship Agreement]] - the operating layer, reproduced exactly as it exists
+- [[The Taabir Fellows]] - Cohort I, the first fellows, who now run Taabir
 
 ## Sessions
 
@@ -48,3 +57,4 @@ Touch, taste, explore.
 ## Research
 
 [[South Irving Needs Synthesis]] - field research on what South Irving has already told the city it needs.
+[[Three Governance Documents]] - the governance reading guide.

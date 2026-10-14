@@ -12,12 +12,12 @@ In a "Business as Usual" economy, the goal is **Competitive Advantage**. You kee
 
 In a Solidarity Economy, the goal is **Ecosystem Resilience**. Innovation is treated as a contribution to the commons. Growth does not mean one organization getting bigger. It means the *model* being replicated in new places to solve similar problems.
 
-The bylaws codify this instinct: "Knowledge produced by TAABIR shall be shared openly, including open-sourcing these bylaws on the website" ([[Bylaws#Abundance Practice]]). The underlying belief is simple: there is enough for everyone, and we are more secure when our neighbors are also successful.
+The bylaws codify this instinct: "Knowledge, tools, templates, and resources produced by TAABIR shall be shared openly with other organizations in the solidarity economy whenever possible" ([[Bylaws#Abundance Practice]]). The underlying belief is that there is enough for everyone, and we are more secure when our neighbors are also successful.
 
 **In Practice:**
 Instead of treating the "Community Resource Center" model as a proprietary secret, Taabir broadcasts the blueprints. This includes:
 - **Open Governance:** Posting the bylaws and decision-making processes online so others can adapt them.
-- **Knowledge Sharing:** This digital garden is an extension of that instinct—transforming course notes from a private diary into a public resource for anyone trying to build similar work elsewhere.
+- **Knowledge Sharing:** This digital garden is an extension of that instinct. Transforming course notes from a private diary into a public resource for anyone trying to build similar work elsewhere.
 - **Adaptive Replication:** Recognizing that the most valuable "open source" element is the team's willingness to change shape to meet local needs.
 
 ## Links

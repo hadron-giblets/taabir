@@ -7,7 +7,7 @@ session_number: 4
 
 # Session 4: Principles of Next Economy Enterprises II
 
-The second half of LIFT Economy's ten principles (6–10), picking up where [[Session 3 - Principles of Next Economy Enterprises I|part one]] left off. Part one was mostly about ownership and decision-making. This half is about knowledge, ecology, power, and people: how an enterprise teaches, how it operates ecologically, how it relates to power outside itself, and how it treats the humans doing the work.
+The second half of LIFT Economy's ten principles (6–10), picking up where [[Session 3 - Principles of Next Economy Enterprises I|part one]] left off. Part one was mostly about ownership and decision-making. This half is about knowledge, ecology, power, and people: how an enterprise teaches, how it operates ecologically, how it relates to power outside itself, and how it treats the humans who keep it alive.
 
 ![[Principle 6 - Open Source and Regionally Replicable]]
 

@@ -11,6 +11,8 @@ The strategic implication is that Taabir may need to be deliberately more than o
 
 None of this is inconsistency. It's a recognition that the version of Taabir a funder sees and the version a community member walks into don't have to be identical to both be honest.
 
+At the same time, what does it mean to be transparent while also being protective? At the Irving Community Action Network meeting in August, someone was kind enough to teach me about [[gray services.]]
+
 ## Links
 - [[Site Strategy#The sequencing logic]]
 - [[Bylaws#Abundance Practice]]

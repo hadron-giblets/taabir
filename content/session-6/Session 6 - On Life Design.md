@@ -20,7 +20,9 @@ The pace this runs on isn't geological (too slow to matter in a human life) or q
 
 The bylaws' clause naming burnout as a structural failure, not a personal one, is the same logic applied to the people doing the work. You cannot hold a room open for other people if you are the one suffocating. Generational patience is not only an organizational value here. It is a life design value for the staff too.
 
+![[The Luxury of Preferences]]
+
 ## Links
 - [[Bylaws#Generational Patience]]
-- [[Site Strategy#The sequencing logic]]
+- [[Site Strategy#Sequencing Logic]]
 - [[The Welcome Room]]

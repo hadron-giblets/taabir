@@ -35,7 +35,7 @@ The answer is that it does not pay for itself alone. The Welcome Room is free. S
 
 ## The Local Goods Market
 
-The first space Taabir opens will likely be a rented retail space, roughly 2,000 square feet. Smaller than the phased ownership vision in the [[Site Strategy#The sequencing logic|site strategy's phased vision]], because ownership comes later. The room does not need to wait for the perfect building. It needs a door and a floor and someone there to hold it open.
+The first space Taabir opens will likely be a rented retail space, roughly 2,000 square feet. Smaller than the phased ownership vision in the [[Site Strategy#Sequencing Logic|site strategy's phased vision]], because ownership comes later. The room does not need to wait for the perfect building. It needs a door and a floor and someone there to hold it open.
 
 The layout is two things side by side:
 
@@ -55,13 +55,11 @@ Revenue does feel less charming than free. The charm of the Welcome Room is that
 
 ## The Switchboard
 
-The Welcome Room does not stop at the walls of the building. When the room connects someone to a resource outside, a food pantry, a legal clinic, a housing co-op, a job training program, the need is still being met. The Community Connector role ([[The Taabir Fellows]]) exists specifically to build and maintain those connections, embedding Taabir in Irving through relational presence rather than traditional outreach.
-
-Social connectivity is economic connectivity, and the connections it facilitates are not stuck in the room's physical footprint.
+The Welcome Room does not stop at the walls of the building. When the room connects someone to a resource outside, a food pantry, a legal clinic, a housing opportunity, a job training program, the need is still being met. It's important to know what resources exist in Irving, to connect with the resource system relationally. Social connectivity is economic connectivity.
 
 ## The Room as Message
 
-The Welcome Room is meant to be Taabir's primary marketing channel ([[Session 15 - Marketing]]). Word of mouth starts here, because the room itself is the message. Every person who walks in and finds a place to sit, free, no questions, becomes someone who tells someone else. 
+The Welcome Room is meant to be a marketing channel ([[Session 15 - Marketing]]). Word of mouth starts here, because the room itself is the message. Every person who walks in and finds a place to sit, free, no questions, becomes someone who tells someone else. Every person who finds a home for their club or space for their flyer, a room for their event, that's the actual impact.
 
 The room is also vision discipline ([[Session 7 - Visioning]]). If a proposed function does not serve to welcome the community, it does not get built. Each phase of expansion is a check on whether the next function serves the vision or distracts from it.
 

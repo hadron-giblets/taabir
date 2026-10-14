@@ -5,7 +5,7 @@ session_number: "12b"
 
 # Session 12b: Governance
 
-Three ideas from this session: the developmental stages a team moves through as it learns shared-power decision-making, why consent-based governance is mechanically simpler but culturally harder than hierarchy, and how a decision zone chart protects people from having to be in every decision.
+Three ideas from this session: the developmental stages a team moves through as it learns shared-power decisionmaking, why consent-based governance is both simpler and culturally harder than hierarchy, and how a decision zone chart protects people from having to be in every decision.
 
 ![[The Seven Stages of Cooperativism]]
 

@@ -8,7 +8,7 @@ session: "[[Session 9 - Communication, Culture II]]"
 
 # NVC Encoded in Governance
 
-Nonviolent Communication gives conflict a structure rather than leaving it to instinct, and Taabir's governance already encodes a version of that structure without naming it as NVC. See [[Nonviolent Communication (NVC)]] for the full framework.
+Nonviolent communication gives conflict a structure rather than leaving it to instinct, and Taabir's governance already encodes a version of that structure without naming it as NVC. See [[Nonviolent Communication (NVC)]] for the full framework.
 
 A valid objection under the bylaws requires naming harm specifically: a decision would actively harm Taabir or a community it serves, violate a stated value, or create legal or financial risk. That's observation, need, and impact, built directly into how decisions get blocked, rather than left to whoever feels strongest about their preference in the moment. "Preferences are not objections" is NVC's distinction between a strategy and an underlying need, written straight into governance.
 

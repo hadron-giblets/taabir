@@ -5,7 +5,7 @@ session_number: 2
 
 # Session 2: Intro to Next Economy II
 
-Four ideas from this session, each anchored in a different piece of course material: scale and connection, anchor institutions, the transition between old and new economic forms, and learning from a community before trying to teach it anything.
+Four ideas from this session: scale and connection, anchor institutions, the transition between old and new economic forms, and learning from a community before trying to teach it anything.
 
 ![[The Density Problem - Scale and Connection]]
 

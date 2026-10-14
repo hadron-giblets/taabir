@@ -1,10 +1,12 @@
 ---
+title: Bylaws (Community Covenant)
 tags: [bylaws, governance, foundational]
+description: "The values layer: TAABIR's Community Covenant, born from the March 2026 gathering."
 ---
 
 # Bylaws (Community Covenant)
 
-The complete text of TAABIR's Community Covenant, adopted from community input at the TAABIR Gathering on March 22, 2026.
+The complete text of TAABIR's Community Covenant, adopted from community input at the TAABIR Gathering on March 22, 2026. This is the values layer. The legal layer is the [[Bylaws of Taabir USA]], and the map between them is [[Three Governance Documents]].
 
 ## I. Mission Statement
 

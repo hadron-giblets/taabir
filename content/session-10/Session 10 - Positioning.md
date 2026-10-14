@@ -23,7 +23,7 @@ Four ideas from this session: the gap between what people need and what they kno
 
 ## Community Research
 
-The needs assessment Taabir ran in South Irving is a worked example of this session's ideas, not theory. Four notes in [[Session 10 - Positioning]] apply the positioning framework to real data. The full synthesis, with field notes from the grocery store, the library, and the bar, lives here:
+The needs assessment Taabir ran in South Irving is a worked example of this session's ideas. Four notes in [[Session 10 - Positioning]] apply the positioning framework to real data. The full synthesis, with field notes from the grocery store, the library, and the bar, lives here:
 
 → [[South Irving Needs Synthesis]]
 
