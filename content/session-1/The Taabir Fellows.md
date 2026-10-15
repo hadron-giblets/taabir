@@ -6,7 +6,7 @@ session: "[[Session 1 - Economy as Need Meeting]]"
 
 # The Taabir Fellows
 
-Taabir began as a fellowship. The three of us below were the first cohort: funded through the NextEconomy MBA, learning in public, building the organization as we went. The 2026–27 Fellowship is the second cohort — three new fellows, the same MBA, and projects of their own. The startup provision ([[Bylaws#Startup Provision]]) allows streamlined governance while we are still small enough to know each other's work intimately.
+Taabir starts as a fellowship. The three of us below were the first cohort who went through the NextEconomy MBA, learning in public, building the organization as we went. The 2026–27 Fellowship is the second cohort. The startup provision ([[Bylaws#Startup Provision]]) allows streamlined governance while we are still small enough to know each other's work intimately.
 
 ## Cohort I: The First Fellows
 
@@ -28,7 +28,7 @@ S. Wazir Ali is dedicated to transmuting revolutionary energy into the co-creati
 
 Julio Acosta was born in Mexico. His dad is from El Salvador and his mom is from Mexico. His family moved to Dallas in 1987. Since 2015, he has been involved with advocacy, activism, community organizing, and progressive electoral politics. He has served as Community Organizer, Campaign Manager for a Texas State House Representative race, and Deputy Campaign Manager for a progressive U.S. Congressional race in Dallas. Julio enjoys sci-fi, rom-coms, and thriller movies. Some of his favorite shows include Community, The IT Crowd, and Stranger Things.
 
-Julio has been a big part of shaping Taabir's values and dreams, and he connects us with a network of thoughtful and engaged people.
+Julio has been a big part of shaping Taabir's values and dreams, and he connects us with a big network of thoughtful and engaged people.
 
 ### Tlaloc Fierro
 
