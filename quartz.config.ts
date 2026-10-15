@@ -26,16 +26,18 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
+        // dark-only site: lightMode mirrors darkMode so there is one palette.
+        // custom.scss pins the variables at every specificity level as a belt-and-suspenders.
         lightMode: {
-          light: "#fafaf7",
-          lightgray: "#e0ddd5",
-          gray: "#b0aca0",
-          darkgray: "#4a4a42",
-          dark: "#1a2820",
-          secondary: "#1a3c2e",
-          tertiary: "#4a7c59",
-          highlight: "rgba(218, 165, 32, 0.12)",
-          textHighlight: "#daa52044",
+          light: "#0a1410",
+          lightgray: "#141f18",
+          gray: "#1e2e22",
+          darkgray: "#e8e4d8",
+          dark: "#f5f0e3",
+          secondary: "#d4ad6a",
+          tertiary: "#8fc87a",
+          highlight: "rgba(232, 184, 66, 0.15)",
+          textHighlight: "rgba(232, 184, 66, 0.35)",
         },
         darkMode: {
           light: "#0a1410",

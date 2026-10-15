@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 4 - Principles of Next Economy Enterprises II]]"
+title: "Principle 8: Regenerative Operations"
 ---
-
-# Principle 8: Regenerative Operations
 
 Most green initiatives in the standard economy are about **sustainability**, which often just means "doing less harm" (for example, reducing carbon footprints or using recycled paper). It treats the environment as a resource to be managed so it doesn't run out.
 

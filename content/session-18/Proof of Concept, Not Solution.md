@@ -1,9 +1,8 @@
 ---
 tags: [session-note, systems-change, taabir-application]
 session: "[[Session 18 - What's Next]]"
+title: "Proof of Concept, Not Solution"
 ---
-
-# Proof of Concept, Not Solution
 
 Small is fine. Proof does not require scale, it requires demonstration. Taabir needs to show that a free, welcoming, community-governed space can exist, sustain itself, and serve people the existing infrastructure isn't reaching. If it works, the expectation isn't that Taabir grows to absorb everything. It's that others replicate the parts that worked, adapted to their own context. Prove it locally, then let it spread.
 

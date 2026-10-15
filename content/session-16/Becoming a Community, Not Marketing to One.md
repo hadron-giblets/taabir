@@ -1,9 +1,8 @@
 ---
 tags: [session-note, brand-and-sales, taabir-application]
 session: "[[Session 16 - Brand, Sales & Alignment]]"
+title: "Becoming a Community, Not Marketing to One"
 ---
-
-# Becoming a Community, Not Marketing to One
 
 Brand community dissolves the wall between an institution and the people it serves. The community co-creates identity, participates in ownership, and shapes the products and services rather than just receiving them. The deepest version of this is when people start to identify with the institution as part of who they are, not just somewhere they occasionally go. Building that identity involves the community directly, draws on existing touchpoints rather than starting from a blank page, and evolves over years rather than getting decided in a single branding exercise.
 

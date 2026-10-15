@@ -4,9 +4,8 @@ tags:
   - operations
   - taabir-application
 session: "[[Session 13 - Operations I]]"
+title: "The Redundancy of Care: Lead-Support and Personal Sustainability"
 ---
-
-# The Redundancy of Care: Lead-Support and Personal Sustainability
 
 For any critical task, designating a lead with primary responsibility and a support person as backup and trainee prevents a single point of failure, and documentation ensures the institutional memory survives even when a person eventually leaves. This is a structural answer to a structural risk: an organization that depends entirely on one person's undocumented knowledge is one departure away from losing it.
 

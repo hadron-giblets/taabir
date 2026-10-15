@@ -1,9 +1,8 @@
 ---
 tags: [session-note, marketing, taabir-application]
 session: "[[Session 15 - Marketing]]"
+title: "Alignment-Seeking, Not Broadcasting"
 ---
-
-# Alignment-Seeking, Not Broadcasting
 
 Marketing, reframed, isn't extraction or manipulation. It's alignment-seeking: finding the people who already need what an organization offers and helping them find their way to it. The question shifts from "how do we make people want this" to "who already wants this, and how do we reach them." That shift changes which channels actually matter. 
 

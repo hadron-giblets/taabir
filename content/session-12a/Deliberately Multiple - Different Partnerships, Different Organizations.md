@@ -1,9 +1,8 @@
 ---
 tags: [session-note, partnerships, taabir-application]
 session: "[[Session 12a - Partnerships]]"
+title: "Deliberately Multiple: Different Partnerships, Different Organizations"
 ---
-
-# Deliberately Multiple: Different Partnerships, Different Organizations
 
 Different partnerships end up creating different versions of the same organization. A resource center answering to city funding has to use business-as-usual methods: eligibility screenings, outcome metrics, documentation that ends up excluding undocumented community members almost by default. A resource center running purely on community trust can serve anyone, document minimally, and respond to what a person actually needs without a bureaucratic filter sitting between them.
 

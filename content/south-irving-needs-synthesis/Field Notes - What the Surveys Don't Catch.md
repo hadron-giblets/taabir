@@ -1,9 +1,8 @@
 ---
 tags: [session-note, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "Field Notes"
 ---
-
-# Field Notes
 
 Going to four settings, one open question each. None of this would surface in a conventional needs assessment.
 

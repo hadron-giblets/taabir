@@ -1,9 +1,8 @@
 ---
 tags: [session-note, communication, taabir-application]
 session: "[[Session 9 - Communication, Culture II]]"
+title: "Facilitation Essentials"
 ---
-
-# Facilitation Essentials
 
 Without enough structure, power does not disappear from a group. It concentrates invisibly, usually in whoever is already most comfortable speaking up. Facilitation is what makes power visible and distributed on purpose, rather than left to default the informal way.
 

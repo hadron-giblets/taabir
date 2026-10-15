@@ -4,9 +4,8 @@ tags:
   - governance
   - taabir-application
 session: "[[Session 12b - Governance]]"
+title: "The Decision Zone as Protection: Board Decision Matrix"
 ---
-
-# The Decision Zone as Protection: Board Decision Matrix
 
 A decision zone chart maps out in advance which decisions belong to which people or bodies, so that authority doesn't have to get renegotiated every time a question comes up. It protects people from the exhaustion of needing to be present for every decision, and it protects the organization from decisions quietly defaulting to whoever happens to be in the room.
 

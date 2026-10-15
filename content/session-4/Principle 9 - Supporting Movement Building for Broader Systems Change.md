@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 4 - Principles of Next Economy Enterprises II]]"
+title: "Principle 9: Supporting Movement Building"
 ---
-
-# Principle 9: Supporting Movement Building
 
 In the standard nonprofit model, organizations often compete for the same grants and focus on scaling their own specific program. This can lead to a fragmented landscape where organizations are more concerned with their own survival than the systemic cause of the problems they are fighting.
 

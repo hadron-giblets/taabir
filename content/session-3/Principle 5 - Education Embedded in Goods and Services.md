@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 3 - Principles of Next Economy Enterprises I]]"
+title: "Principle 5: Education Embedded in Goods and Services"
 ---
-
-# Principle 5: Education Embedded in Goods and Services
 
 **The Thesis:** Teach people how to do what you do. Turn consumers into producer-consumers. Perhaps the ultimate goal is to put yourself out of business by making the community self-sufficient enough that they no longer need you.
 

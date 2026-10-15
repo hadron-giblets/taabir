@@ -1,8 +1,7 @@
 ---
 tags: [concept, glossary]
+title: "Solidarity Economy"
 ---
-
-# Solidarity Economy
 
 The solidarity economy is a set of structural alternatives to extractive economics. Rather than organizing economic activity around the maximization of profit or the accumulation of capital, a solidarity economy organizes activity around the sustainability of the community and the meeting of human needs.
 

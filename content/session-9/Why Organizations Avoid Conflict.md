@@ -1,9 +1,8 @@
 ---
 tags: [session-note, communication, taabir-application]
 session: "[[Session 9 - Communication, Culture II]]"
+title: "Why Organizations Avoid Conflict"
 ---
-
-# Why Organizations Avoid Conflict
 
 Text-based communication strips out tone, body language, and relational context, and email in particular tends to escalate rather than de-escalate: the longer a message gets, the more surface area it gives to misinterpretation. People also carry more negative bias into text specifically with people they do not know well. The practical fix is simple: pick up the phone, send a voice message, get as close to a live conversation as the situation allows.
 

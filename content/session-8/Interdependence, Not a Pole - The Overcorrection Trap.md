@@ -4,9 +4,8 @@ tags:
   - culture-and-team
   - taabir-application
 session: "[[Session 8 - Culture, Values, Team & Compensation]]"
+title: "Interdependence, Not a Pole: The Overcorrection Trap"
 ---
-
-# Interdependence, Not a Pole: The Overcorrection Trap
 
 Culture tends to fail in one of two directions. Corporate culture fails through competition, territorialism, and individualism. But on the other side of the mirror, a cooperative culture paralyzed by consensus fails just as completely: one person's concern can dominate indefinitely, and no tradeoff can ever get made. Neither pole is the goal. The goal is interdependence, the capacity to act autonomously inside a shared alignment, rather than either isolated self-interest or permanent deadlock.
 

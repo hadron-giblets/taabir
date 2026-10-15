@@ -1,9 +1,8 @@
 ---
 tags: [session-note, financial-systems, taabir-application]
 session: "[[Session 14 - Financial Systems]]"
+title: "The Operating Projection as Strategic Tool"
 ---
-
-# The Operating Projection as Strategic Tool
 
 The operating projection is the core strategic financial tool, a living model with two parts: an assumptions tab, price per unit, cost of goods per unit, wages, rent, monthly unit sales, and a summary tab showing monthly and annual totals against sustainability. The model exists to test "what if": raise wages, change the rent, add a service, lose a funder, and watch what ripples through the summary. What it reveals over time is which variables are actually sensitive, meaning which ones most determine whether the organization survives.
 

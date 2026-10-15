@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 3 - Principles of Next Economy Enterprises I]]"
+title: "Principle 1: Need-Oriented Basic Goods & Services"
 ---
-
-# Principle 1: Need-Oriented Basic Goods & Services
 
 Communities define their own needs. The role of an economy is to meet those needs, not to maximize profit for whoever is selling. A [[Solidarity Economy|next economy enterprise]] exists to serve a need, rather than using "meeting needs" as just a market niche.
 

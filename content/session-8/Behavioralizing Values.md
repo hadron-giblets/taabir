@@ -4,9 +4,8 @@ tags:
   - culture-and-team
   - taabir-application
 session: "[[Session 8 - Culture, Values, Team & Compensation]]"
+title: "Behavioralizing Values"
 ---
-
-# Behavioralizing Values
 
 General values -- community, service, doing it for the children -- feel aligned right up until they meet a specific decision. Two people can hold the identical value and land on opposite behaviors, and no amount of restating the value will resolve that gap. The actual work isn't agreeing on the value. It's behavioralizing it: asking what the value looks like in practice, across different people's frames of reference, before a real conflict forces the conversation to happen under pressure.
 

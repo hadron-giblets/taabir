@@ -4,9 +4,8 @@ tags:
   - governance
   - taabir-application
 session: "[[Session 12b - Governance]]"
+title: "The Seven Stages of Cooperativism"
 ---
-
-# The Seven Stages of Cooperativism
 
 Learning to participate in shared-power governance is a developmental arc, not a switch that flips once someone joins a cooperative structure. 
 

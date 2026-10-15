@@ -1,9 +1,8 @@
 ---
 tags: [session-note, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "Mapping Needs to Taabir's Three Functions"
 ---
-
-# Mapping Needs to Taabir's Three Functions
 
 Taabir's three imagined functions, a resource center for vocational training, cooperative business, and the solidarity economy; a co-working space for member organizations and businesses; and a community space for those most in need, sort cleanly against the tiers laid out in [[Naming the Need - Three Tiers of Visibility]].
 

@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 3 - Principles of Next Economy Enterprises I]]"
+title: "Principle 2: Inclusive Ownership"
 ---
-
-# Principle 2: Inclusive Ownership
 
 **The Thesis:** Economic rights (profits, proceeds from a sale) should be widely held rather than concentrated. Ownership does not have to be the same thing as governance; you can separate who has a stake in the outcome from who makes the day-to-day decisions.
 

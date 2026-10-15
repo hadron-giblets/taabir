@@ -4,9 +4,8 @@ tags:
   - ecosystem
   - taabir-application
 session: "[[Session 5 - Structure]]"
+title: "The Free Version of Everything"
 ---
-
-# The Free Version of Everything
 
 Taabir's planning conversations are really about one question: **what's the free version of this?** Free meaning more than no cost, but definitely at least no cost. No cost is the removal of the biggest gate this society imposes: access. 
 

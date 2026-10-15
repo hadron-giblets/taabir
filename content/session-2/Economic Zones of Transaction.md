@@ -1,8 +1,7 @@
 ---
 tags: [concept, glossary]
+title: "Economic Zones of Transaction"
 ---
-
-# Economic Zones of Transaction
 
 A way of sorting how a need actually gets met, by what kind of exchange is happening:
 

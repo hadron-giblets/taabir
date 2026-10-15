@@ -1,9 +1,8 @@
 ---
 tags: [session-hub, systems-change, taabir-application]
 session_number: 18
+title: "Session 18: What's Next"
 ---
-
-# Session 18: What's Next
 
 This is a big zoom out. After seventeen sessions on how to build and run one institution, the closing question is about the wider field: which parts of the economy still need next economy alternatives, and where does any one person's work fit into that larger map?
 

@@ -4,9 +4,8 @@ tags:
   - communication
   - taabir-application
 session: "[[Session 9 - Communication, Culture II]]"
+title: "NVC Encoded in Governance"
 ---
-
-# NVC Encoded in Governance
 
 Nonviolent communication gives conflict a structure rather than leaving it to instinct, and Taabir's governance already encodes a version of that structure without naming it as NVC. See [[Nonviolent Communication (NVC)]] for the full framework.
 

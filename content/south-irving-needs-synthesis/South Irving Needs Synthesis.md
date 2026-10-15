@@ -1,9 +1,8 @@
 ---
 tags: [session-note, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "South Irving Needs Synthesis"
 ---
-
-# South Irving Needs Synthesis
 
 A synthesis of what South Irving has already said, pulled from the city's own 5,000-resident survey, the 2023-2028 Consolidated Plan, county ALICE household data, and a set of informal conversations at the grocery store, the library, and the bar, conducted in July 2026. It covers 75060, 75061, and 75062, the three zip codes that make up South Irving.
 

@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 4 - Principles of Next Economy Enterprises II]]"
+title: "Principle 7: Transparency"
 ---
-
-# Principle 7: Transparency
 
 In traditional organizations, information is often used as a tool of **control**. Knowledge is siloed at the top (management decides what you need to know) to maintain a hierarchy of power. This often creates a culture of anxiety where staff feel unsafe because they do not actually know the health or direction of the organization. And frustratingly often, they're purposely misled by those up the hierarchy.
 

@@ -3,9 +3,8 @@ tags:
   - session-reflection
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
+title: "Bioregionalism: Import, Export, Absence"
 ---
-
-# Bioregionalism: Import, Export, Absence
 
 DFW is not really a bioregion. It is a metro area that sits at the edge of the Blackland Prairie ecoregion and the Eastern Cross Timbers, cut through by the Trinity River watershed, which is what more ecologically binds our region together. But we will just call it DFW, a big and recognizable shape.
 

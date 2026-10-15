@@ -1,9 +1,8 @@
 ---
 tags: [session-note, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "What South Irving Already Told the City"
 ---
-
-# What South Irving Already Told the City
 
 Two surveys by the city of Irving land on much the same handful of concerns. The city's 2026 Resident Survey, aimed at the general population, put homelessness (39 percent) and economic development (28 percent) at the top of citywide concerns. The Consolidated Plan's own needs survey, aimed specifically at lower-income residents and asking about community services, found mental health services (43 percent), senior services (40 percent), and homeless services (39 percent) at the top, with childcare, services for new Americans, and a domestic violence shelter volunteered in the write-ins.
 

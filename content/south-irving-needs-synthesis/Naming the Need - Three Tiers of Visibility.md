@@ -1,9 +1,8 @@
 ---
 tags: [session-note, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "Naming the Need: Three Tiers of Visibility"
 ---
-
-# Naming the Need: Three Tiers of Visibility
 
 Surveys can only ask about what someone thought to put on the page. There are more needs in a community than any single survey instrument will catch. The City of Irving has polled a lot of people but it did it in a way that highlights what's already more visible.
 

@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 4 - Principles of Next Economy Enterprises II]]"
+title: "Principle 6: Open Source and Regionally Replicable"
 ---
-
-# Principle 6: Open Source and Regionally Replicable
 
 In a "Business as Usual" economy, the goal is **Competitive Advantage**. You keep your best ideas secret (Intellectual Property) to maintain a monopoly and maximize profit. Growth means expanding your own footprint to capture more of the market.
 

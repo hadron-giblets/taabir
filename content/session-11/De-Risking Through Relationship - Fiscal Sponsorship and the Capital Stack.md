@@ -1,9 +1,8 @@
 ---
 tags: [session-note, fundraising, taabir-application]
 session: "[[Session 11 - Fundraising]]"
+title: "De-Risking Through Relationship: Fiscal Sponsorship and the Capital Stack"
 ---
-
-# De-Risking Through Relationship: Fiscal Sponsorship and the Capital Stack
 
 Most funders want de-risking before they'll commit, and a capital stack is how an organization gets there without any single funder or instrument carrying the whole burden: city grants, subordinated debt, community investment, and a philanthropic loan loss reserve can all layer together, each one making the others more feasible. Before pursuing any of it, the discipline is to qualify the funder as rigorously as the funder qualifies the applicant: what have they funded before, at what scale, what do they expect in return, what does their own disclosure reveal about how they actually operate.
 

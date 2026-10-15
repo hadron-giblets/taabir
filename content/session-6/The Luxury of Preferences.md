@@ -4,9 +4,8 @@ tags:
   - life-design
   - taabir-application
 session: "[[Session 6 - On Life Design]]"
+title: "The Luxury of Preferences"
 ---
-
-# The Luxury of Preferences
 
 *Adapted from ["On Life Design," Notes from the NextMBA, part 3](https://taabir.substack.com/p/on-life-design)*
 

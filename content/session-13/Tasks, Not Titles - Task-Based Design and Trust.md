@@ -4,9 +4,8 @@ tags:
   - operations
   - taabir-application
 session: "[[Session 13 - Operations I]]"
+title: "Tasks, Not Titles: Task-Based Design and Trust"
 ---
-
-# Tasks, Not Titles: Task-Based Design and Trust
 
 Org structure can be creative, but it has to be clear enough to catch everything the organization actually does, assign each piece to a person, and hold that person accountable for it. Task-based design defines all of an organization's functions, groups them into thematic areas, design (vision, culture, strategy, operations), revenue (delivery), and admin (support), and then defines each person's role as a specific set of tasks within those areas rather than a title sitting above other titles. Accountability runs to the task, not to a manager, which makes evaluation granular (how's task fourteen going?) and makes reassignment possible without it reading as a judgment on anyone's worth.
 

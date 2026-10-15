@@ -4,9 +4,8 @@ tags:
   - culture-and-team
   - taabir-application
 session: "[[Session 8 - Culture, Values, Team & Compensation]]"
+title: "Three Before Me"
 ---
-
-# Three Before Me
 
 Among the values circulating for Taabir's bylaws — honesty, grace, mutual aid, justice — one candidate is different in kind: **three before me**. The others name a feeling or a principle. This one names a behavior. It can be checked. It can be failed.
 

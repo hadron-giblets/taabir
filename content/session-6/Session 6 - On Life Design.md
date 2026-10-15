@@ -4,9 +4,8 @@ tags:
   - life-design
   - taabir-application
 session: 6
+title: "Session 6: Life Design"
 ---
-
-# Session 6: Life Design
 
 Life design means knowing your purpose and structuring your economic choices around it: divesting from harm, investing in community, reducing cash dependency, broadcasting your needs instead of hiding them.
 

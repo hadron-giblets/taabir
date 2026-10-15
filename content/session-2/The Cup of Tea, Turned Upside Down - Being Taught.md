@@ -4,9 +4,8 @@ tags:
   - community-needs-assessment
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
+title: "The Cup of Tea, Turned Upside Down: Being Taught"
 ---
-
-# The Cup of Tea, Turned Upside Down: Being Taught
 
 Every object carries an invisible supply chain. A cup of tea is a map of extraction if you trace it back far enough: monoculture farming, chemical inputs, fossil-fuel transport, packaging waste, water systems built on environmental injustice. The proposed fix is localization. Grow your own. Know your source. Consume things where you can actually see the origin.
 

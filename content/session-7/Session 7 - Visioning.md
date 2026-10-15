@@ -4,9 +4,8 @@ tags:
   - vision-and-goals
   - taabir-application
 session: 7
+title: "Session 7: Vision"
 ---
-
-# Session 7: Vision
 
 Vision misalignment is likely the most common failure mode for a Next Economy organization. Getting a team aligned on impact vision matters more, and comes before, almost anything else. Goals work as compass points here, not fixed destinations. The process of getting aligned is itself part of the outcome. You need to face the friction.
 

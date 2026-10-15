@@ -1,9 +1,8 @@
 ---
 tags: [session-note, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "South Irving by the Numbers"
 ---
-
-# South Irving by the Numbers
 
 75060, 75061, and 75062 are the three zip codes that make up South Irving, a division the city and its own residents already draw. In the 2024 Resident Survey's open comments, a cluster of write-ins asked the city to focus on this area by name, and nearly all of them came from these three zips.
 

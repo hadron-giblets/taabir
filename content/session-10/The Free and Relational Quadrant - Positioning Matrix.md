@@ -1,9 +1,8 @@
 ---
 tags: [session-note, positioning, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "The Free and Relational Quadrant: Positioning Matrix"
 ---
-
-# The Free and Relational Quadrant: Positioning Matrix
 
 A positioning matrix maps an industry along axes that matter to the people being served, price, values orientation, local versus global, conventional versus regenerative, so the gaps become visible: the spaces where no one is currently operating. Choosing a position in that gap isn't a compromise. It's strategic clarity about who the organization serves and why.
 

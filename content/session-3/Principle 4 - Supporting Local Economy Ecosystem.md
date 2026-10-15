@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 3 - Principles of Next Economy Enterprises I]]"
+title: "Principle 4: Supporting Local Economy Ecosystem"
 ---
-
-# Principle 4: Supporting Local Economy Ecosystem
 
 **The Thesis:** Money that stays local keeps circulating instead of leaving the neighborhood. Local ownership alone is not enough, because even a locally owned business can still extract value. The real decision happens in procurement and banking choices.
 

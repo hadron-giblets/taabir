@@ -4,9 +4,8 @@ tags:
   - governance-structure
   - taabir-application
 session: 5
+title: "Session 5: Structure"
 ---
-
-# Session 5: Structure
 
 Southern Environmental Law Center's core insight is that a nonprofit can be restructured to function like a cooperative without changing its legal status: the Board delegates, the workers decide, and the shell stays a 501(c)(3) while the actual operating culture is democratic.
 
@@ -27,10 +26,6 @@ Zoom out, and Taabir USA functions as the gravitational center of a small ecosys
 One asterisk on "actually structured": under the sponsorship agreement, worker self-direction is delegated — granted by the sponsor, terminable on ninety days' notice ([[Fiscal Sponsorship Agreement#3. Delegated Governance and Management]]). The democracy is real, and it is on loan. [[Three Governance Documents]] maps the whole arrangement.
 
 "The people who do the work should decide" is a governance philosophy and a guide to how structure gets generated over time. When someone at Taabir starts new work, launching a program or building a business, they should come to own that work. Taabir doesn't hold onto the models it develops. It gives them to the workers and to the community. That's [[Principle 5 - Education Embedded in Goods and Services|Education Embedded]] and [[Principle 6 - Open Source and Regionally Replicable|Open Source]] built as part of the whole org structure.
-
-![[A Shell That Behaves Like a Co-op]]
-
----
 
 ![[The Free Version of Everything]]
 

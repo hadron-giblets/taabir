@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 4 - Principles of Next Economy Enterprises II]]"
+title: "Principle 10: Supporting Personal Growth and Development"
 ---
-
-# Principle 10: Supporting Personal Growth and Development
 
 In the business as usual economy, the workplace is a site of **production**. People are hired for a specific set of skills to produce a specific output. Growth is seen as something the employee does on their own time (or for the benefit of their resume), and burnout is treated as an individual weakness or a lack of resilience.
 

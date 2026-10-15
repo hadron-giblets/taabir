@@ -1,9 +1,8 @@
 ---
 tags: [session-note, partnerships, taabir-application]
 session: "[[Session 12a - Partnerships]]"
+title: "The Partnership Ecologies: Four Tiers of Trust and Friction"
 ---
-
-# The Partnership Ecologies: Four Tiers of Trust and Friction
 
 Taabir USA sits inside several different partnerships at once, and each one comes with a different ratio of trust to friction.
 

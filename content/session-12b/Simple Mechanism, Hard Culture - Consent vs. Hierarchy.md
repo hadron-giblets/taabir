@@ -4,9 +4,8 @@ tags:
   - governance
   - taabir-application
 session: "[[Session 12b - Governance]]"
+title: "Simple Mechanism, Hard Culture: Consent vs. Hierarchy"
 ---
-
-# Simple Mechanism, Hard Culture: Consent vs. Hierarchy
 
 Shared power governance is a simpler system than corporate hierarchy. No Robert's Rules, no parliamentary procedure, no chain of VP approvals. But it's culturally harder, because it asks people to build new muscles: distinguishing a preference from an actual harm, making a proposal imperfect on purpose so others have room to improve it, and sitting patiently through the slow, everything-takes-forever middle stages on the way to something faster and more trustworthy on the other side.
 

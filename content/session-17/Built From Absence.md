@@ -4,9 +4,8 @@ tags:
   - systems-change
   - taabir-application
 session: "[[Session 17 - The Marrow]]"
+title: "Built From Absence"
 ---
-
-# Built From Absence
 
 Each of the four instructors' stories contains a rupture, a moment when the path they were on revealed itself as wrong. The rupture is a persistent kind of painful, and part of what makes it painful is that the systems producing it made it close to inevitable. What follows the rupture, in every account, is a long search for something that actually fits.
 

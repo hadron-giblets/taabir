@@ -1,9 +1,8 @@
 ---
 tags: [site-strategy, planning, taabir-core]
 session: "[[Session 7 - Visioning]]"
+title: "Site Strategy"
 ---
-
-# Site Strategy
 
 The comprehensive site strategy for Taabir's first permanent home in West Irving (75061), focused on phased development and mission-aligned acquisition. Originally distilled from the Taabir Property Plan for City Collab (June 2026, living document v2) and refined through the course work in sessions 2, 5, 6, and 7.
 

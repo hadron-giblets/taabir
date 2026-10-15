@@ -4,9 +4,8 @@ tags:
   - partnerships
   - taabir-application
 session: "[[Session 12a - Partnerships]]"
+title: "Partnership as Substitution: Capital Without Money"
 ---
-
-# Partnership as Substitution: Capital Without Money
 
 Partnerships can substitute for capital, but only if the value being exchanged is understood broadly. It isn't always money. It can be capability, reach, credibility, or practices that interlock with an organization's own. Strategic partnerships get built the same way personal trust does: through continuous networking, roughly one to three relational conversations a week, confirmed alignment on vision and values, and graduated trust, smaller tests before deeper entwinement, rather than committing fully on the first conversation.
 

@@ -1,9 +1,8 @@
 ---
 tags: [session-note, positioning, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "Research as Ownership: The Needs Assessment Reframe"
 ---
-
-# Research as Ownership: The Needs Assessment Reframe
 
 Business-as-usual tools like positioning matrices, segmentation, and market research aren't inherently extractive. A positioning matrix is just a way of mapping where an industry sits on the axes that matter to the people it serves. What determines whether the tool does harm is how it's interpreted: collaborative analysis (who else serves this community, and how might we complement them?) versus competitive analysis (how do we beat the other options?).
 

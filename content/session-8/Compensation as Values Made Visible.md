@@ -4,9 +4,8 @@ tags:
   - culture-and-team
   - taabir-application
 session: "[[Session 8 - Culture, Values, Team & Compensation]]"
+title: "Compensation as Values Made Visible"
 ---
-
-# Compensation as Values Made Visible
 
 How an organization pays people is the most honest test of what it actually believes, more honest than any mission statement. The session names several principles: total compensation rather than cash alone, wellness time, shared meals, education folded in as real value; a needs-based approach that asks what a person actually needs rather than defaulting to whatever the industry pays; transparency, since secrecy around pay perpetuates the very hierarchies a next economy organization is trying to avoid; and adaptability over rigid formula. Open book management is a prerequisite for anything more ambitious than that, like self-set salaries: nobody can set their own pay responsibly if they can't see the books first.
 

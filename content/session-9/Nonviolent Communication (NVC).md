@@ -1,8 +1,7 @@
 ---
 tags: [concept, glossary]
+title: "Nonviolent Communication (NVC)"
 ---
-
-# Nonviolent Communication (NVC)
 
 A four-step communication framework developed by Marshall Rosenberg, built on separating what happened from the interpretation of what happened, so a conversation can address an actual need instead of an accusation.
 

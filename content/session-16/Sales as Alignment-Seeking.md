@@ -1,9 +1,8 @@
 ---
 tags: [session-note, brand-and-sales, taabir-application]
 session: "[[Session 16 - Brand, Sales & Alignment]]"
+title: "Sales as Alignment-Seeking"
 ---
-
-# Sales as Alignment-Seeking
 
 Sales, reframed, isn't manipulation. It's alignment-seeking, asking whether real value is being created, whether the arrangement is consensual, and whether the benefit runs both ways. Education may be needed when a real need exists but the person does not yet recognize it. Disqualifying honestly, telling someone directly that the fit isn't there, is part of the same practice, not a failure of it. The relationship is expected to outlast any single transaction either way.
 

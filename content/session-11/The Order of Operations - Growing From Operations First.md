@@ -4,9 +4,8 @@ tags:
   - fundraising
   - taabir-application
 session: "[[Session 11 - Fundraising]]"
+title: "The Order of Operations: Growing From Operations First"
 ---
-
-# The Order of Operations: Growing From Operations First
 
 Venture capital structurally excludes most next economy enterprises, so the useful question isn't "how do we make ourselves fundable by investors" but "what order should we pursue funding in." 
 

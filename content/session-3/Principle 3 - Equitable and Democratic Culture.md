@@ -4,9 +4,8 @@ tags:
   - next-economy-enterprise
   - taabir-application
 session: "[[Session 3 - Principles of Next Economy Enterprises I]]"
+title: "Principle 3: Equitable and Democratic Culture"
 ---
-
-# Principle 3: Equitable and Democratic Culture
 
 **The Thesis:** Decision-making power is distributed rather than concentrated. Equity here does not mean treating everyone identically; it means matching what people get to what they actually need. This is achieved through consent-based decision making, delegated authority, and sociocracy.
 

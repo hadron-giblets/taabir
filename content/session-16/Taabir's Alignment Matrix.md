@@ -1,9 +1,8 @@
 ---
 tags: [session-note, brand-and-sales, taabir-application]
 session: "[[Session 16 - Brand, Sales & Alignment]]"
+title: "Taabir's Alignment Matrix"
 ---
-
-# Taabir's Alignment Matrix
 
 The alignment matrix crosses two questions, how aligned is this person or organization with the mission, and how interested are they right now, to decide where relationship energy actually belongs. High alignment and high interest means prioritize. High alignment and low interest means nurture, through education and patience rather than pressure. Low alignment and high interest means disqualify with discernment, honestly, rather than taking the engagement just because it is there. Low alignment and low interest means deprioritize without needing to justify it further. The same matrix applies whether the person in question is a customer, a member, a tenant, or a funder.
 

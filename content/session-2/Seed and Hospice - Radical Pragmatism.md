@@ -4,9 +4,8 @@ tags:
   - framework-critique
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
+title: "Seed and Hospice: Radical Pragmatism"
 ---
-
-# Seed and Hospice: Radical Pragmatism
 
 The Two Loops framework says the old economy is dying while a new one is being born, and both processes need resources, workers, and funders. Some of what we do reduces harm in the dying system. Some of it builds the alternative. Some of what we do reduces harm in the dying system; some of it builds the alternative.
 

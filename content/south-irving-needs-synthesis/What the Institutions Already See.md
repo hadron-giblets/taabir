@@ -1,9 +1,8 @@
 ---
 tags: [session-note, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "What the Institutions Already See"
 ---
-
-# What the Institutions Already See
 
 The Consolidated Plan's stakeholder interviews, with service providers, small business owners, and school staff, surface a layer that resident surveys mostly miss.
 

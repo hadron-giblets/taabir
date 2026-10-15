@@ -4,9 +4,8 @@ tags:
   - scale
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
+title: "The Density Problem: Scale and Connection"
 ---
-
-# The Density Problem: Scale and Connection
 
 [[Economic Zones of Transaction|Gift and barter]] create dense relational networks, and cash breaks them down. LIFT gives the example of when money was introduced into Inuit whale harvest practices, a working system of mutual aid collapsed into something much thinner in a short time.
 

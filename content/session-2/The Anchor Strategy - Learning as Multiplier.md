@@ -4,9 +4,8 @@ tags:
   - case-study
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
+title: "The Anchor Strategy: Learning as Multiplier"
 ---
-
-# The Anchor Strategy: Learning as Multiplier
 
 [Evergreen Cooperatives](https://www.evgoh.com/) built their model around anchor institutions: hospitals, universities, places too geographically locked to leave a neighborhood even if they wanted to. The move was to redirect their procurement budgets toward worker-owned cooperatives that hire from the same disinvested neighborhood where the institution sits. The strategy starts with the institution, not the people.
 

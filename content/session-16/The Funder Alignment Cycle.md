@@ -1,9 +1,8 @@
 ---
 tags: [session-note, brand-and-sales, taabir-application]
 session: "[[Session 16 - Brand, Sales & Alignment]]"
+title: "The Funder Alignment Cycle"
 ---
-
-# The Funder Alignment Cycle
 
 The alignment cycle moves through four stages regardless of who's on the other side of it: invitation, rapport and discovery, a transaction or starting point, and feedback that deepens the relationship over time. The principles underneath all four stages: no hidden agenda, real value creation, clear expectations set up front, and a long-term relationship maintained regardless of how any single transaction turns out.
 

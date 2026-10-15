@@ -1,9 +1,8 @@
 ---
 tags: [session-note, financial-systems, taabir-application]
 session: "[[Session 14 - Financial Systems]]"
+title: "Compliance Keeps You Legal, Management Keeps You Alive"
 ---
-
-# Compliance Keeps You Legal, Management Keeps You Alive
 
 Compliance is what the state requires: taxes, filings, audits. Management is what the organization chooses for its own decision-making: dashboards, projections, variance analysis. Compliance keeps an organization legal. Management keeps it alive, and the two aren't independent of each other. Government grants carry compliance requirements, indirect cost rates, eligible expenses, documentation standards, that shape which management decisions are even possible in the first place.
 

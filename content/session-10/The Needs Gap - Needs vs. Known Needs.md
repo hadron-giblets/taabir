@@ -1,9 +1,8 @@
 ---
 tags: [session-note, positioning, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "The Needs Gap: Needs vs. Known Needs"
 ---
-
-# The Needs Gap: Needs vs. Known Needs
 
 A need exists whether or not the people experiencing it recognize it as something addressable. A known need is one people are actively looking to solve. The gap between the two produces the situation where an organization builds something and no one comes. The bridge across that gap isn't a better product. It's education, trust, and meeting people where they actually are, not where a program officer imagines them to be.
 

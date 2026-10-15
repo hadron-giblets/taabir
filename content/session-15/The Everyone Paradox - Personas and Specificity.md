@@ -1,9 +1,8 @@
 ---
 tags: [session-note, marketing, taabir-application]
 session: "[[Session 15 - Marketing]]"
+title: "The Everyone Paradox: Personas and Specificity"
 ---
-
-# The Everyone Paradox: Personas and Specificity
 
 Personas are research-grounded fictional profiles, not just demographics but life circumstances, values, information channels, and needs. They're a tool for empathy, not for targeting: the persona helps a team ask where this person already goes and what they'd actually respond to. Multiple personas are normal, and audience research is the process of building them by listening more than talking, asking what a person's life is like, what they value, how they get information, and how their needs are or aren't currently being met. The Seedles lesson from an earlier session applies directly here: the product a team imagines isn't always the product people actually want. Listen for the surprise rather than confirming what you already expected to hear.
 

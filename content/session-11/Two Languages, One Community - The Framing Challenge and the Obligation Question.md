@@ -4,9 +4,8 @@ tags:
   - fundraising
   - taabir-application
 session: "[[Session 11 - Fundraising]]"
+title: "Two Languages, One Community: The Framing Challenge and the Obligation Question"
 ---
-
-# Two Languages, One Community: The Framing Challenge and the Obligation Question
 
 Every dollar carries an obligation, and the obligation is rarely just financial. City funding carries reporting requirements and political visibility. Debt carries repayment schedules that constrain cash flow regardless of what else is happening. Grants carry focus-area restrictions and outcome metrics that shape what the money can actually be used for. None of this makes a funding source bad. It means the real cost of accepting it has to be named before the money arrives, not discovered afterward.
 

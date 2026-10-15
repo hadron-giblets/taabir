@@ -1,9 +1,8 @@
 ---
 tags: [session-note, marketing, taabir-application]
 session: "[[Session 15 - Marketing]]"
+title: "A Message in Their Own Words"
 ---
-
-# A Message in Their Own Words
 
 Messaging evolves through testing in real conversations, not through a single polished round of copywriting. The discipline is distilling the value proposition down to a few words and letting the community's own language inform that distillation rather than imposing an organization's internal vocabulary onto it. A member testimonial, "why I'm a member," tends to land as more authentic than any crafted tagline, because it is already in the language the audience uses with each other.
 

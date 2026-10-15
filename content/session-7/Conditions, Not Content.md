@@ -4,9 +4,8 @@ tags:
   - vision-and-goals
   - taabir-application
 session: "[[Session 7 - Visioning]]"
+title: "Conditions, Not Content"
 ---
-
-# Conditions, Not Content
 
 This sentence from [[Session 7 - Visioning]] is a tough one: **the job is creating the conditions for other people's visions to emerge.**
 

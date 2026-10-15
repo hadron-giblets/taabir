@@ -1,9 +1,8 @@
 ---
 tags: [session-note, financial-systems, taabir-application]
 session: "[[Session 14 - Financial Systems]]"
+title: "Cash Flow as Survival Discipline"
 ---
-
-# Cash Flow as Survival Discipline
 
 Dashboards distill full financial statements down into five to ten numbers a team can actually discuss together: cash on hand, accounts receivable and payable, total income, direct costs, net result, impact metrics, compared against previous periods. The dashboard exists for conversation, and the question to ask of it is always "what story is this telling?"
 

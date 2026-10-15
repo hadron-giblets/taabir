@@ -1,9 +1,8 @@
 ---
 tags: [session-note, positioning, taabir-application]
 session: "[[Session 10 - Positioning]]"
+title: "Same Product, Different Door: Segmentation and Value Proposition"
 ---
-
-# Same Product, Different Door: Segmentation and Value Proposition
 
 Different people need different things at different times, and trying to speak to everyone at once usually means reaching no one. Segmentation means identifying the groups within a broader audience and choosing, deliberately, who to serve first. Whole Trees learned this directly: pitching to builders stalled the business, and the identical product, repositioned toward architects, grew. Same offering, different door.
 

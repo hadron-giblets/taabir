@@ -4,9 +4,8 @@ tags:
   - communication
   - taabir-application
 session: "[[Session 9 - Communication, Culture II]]"
+title: "Session 9: What NVC Doesn't Say Out Loud"
 ---
-
-# Session 9: What NVC Doesn't Say Out Loud
 
 The four steps of Nonviolent Communication read cleanly on paper, and that cleanliness is exactly where the method can go wrong. Observation, feeling, need, request looks like a way to say "I'm upset because you don't care about this process," except with the sharp edges filed off. Used as a script instead of a translation, that filing-off can go too far: the feeling gets flattened into something generic, the need gets rounded down to whatever word sounds safest, and what should have been an honest, charged sentence turns into a form to fill out. If the need comes out flat, something got lost between the feeling and the need. If it comes out through gritted teeth, the translation probably worked. The four steps were never meant to remove the heat. They were meant to make the heat legible.
 

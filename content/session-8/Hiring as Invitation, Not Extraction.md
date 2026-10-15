@@ -4,9 +4,8 @@ tags:
   - culture-and-team
   - taabir-application
 session: "[[Session 8 - Culture, Values, Team & Compensation]]"
+title: "Hiring as Invitation, Not Extraction"
 ---
-
-# Hiring as Invitation, Not Extraction
 
 The session's recruiting principles: hire for the specific role as it's actually described, build relationships with communities before a candidate is ever needed, favor a large pool over a narrow one, use standardized questions so comparisons stay fair, and let community decision-making carry weight alongside individual preference. Critically, hire for values alignment first. A candidate doesn't need to already be fluent in next economy language. Onboarding can teach that. What can't be taught as easily is whether someone's actual values point the same direction as the organization's.
 

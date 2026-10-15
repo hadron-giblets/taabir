@@ -4,9 +4,8 @@ tags:
   - operations
   - taabir-application
 session: "[[Session 13 - Operations I]]"
+title: "Protecting the Future: Org Rhythms and the Design Layer"
 ---
-
-# Protecting the Future: Org Rhythms and the Design Layer
 
 Org rhythms are scheduled check-ins at multiple timescales, an annual vision retreat and strategic goal-setting, quarterly tuneups, monthly board reporting on goals and culture and operations, weekly team meetings oriented toward actual decisions rather than information-sharing, and daily attention to delivery. 
 

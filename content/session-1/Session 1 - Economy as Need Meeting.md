@@ -4,11 +4,8 @@ tags:
   - next-economy
   - taabir-core
 session: 1
+title: "Session 1: Economy as Need-Meeting"
 ---
-
-
-
-# Session 1: Economy as Need-Meeting
 
 Economy isn't money. It's the collective set of strategies people use to meet their needs: food, water, shelter, community, meaning, care. That includes the formal economy (jobs, currency, markets, GDP) and the informal economy (childcare, eldercare, growing food, gift-giving, mutual aid). The informal economy is usually invisible to formal measurement, but GDP and official economic measures miss a lot. This review starts with a refusal of that exclusion: define economy as need-meeting, and the gift economy and the solidarity economy stop looking like alternatives to "real" economics. They're the original economics.
 

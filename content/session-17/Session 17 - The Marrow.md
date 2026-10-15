@@ -1,9 +1,8 @@
 ---
 tags: [session-hub, systems-change, taabir-application]
 session_number: 17
+title: "Session 17: The Marrow"
 ---
-
-# Session 17: The Marrow
 
 This session is different from the ones before it. Where earlier sessions taught frameworks, this one is built almost entirely from personal narrative, four instructors' accounts of how they arrived at this work and their conclusions on why any of it matters. The content here does not decompose into discrete principles the way earlier sessions did. It's one argument.
 

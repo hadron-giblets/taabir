@@ -4,9 +4,8 @@ tags:
   - fundraising
   - taabir-application
 session: "[[Session 11 - Fundraising]]"
+title: "Funders Who Can't See It: Compensation as Mission Drift"
 ---
-
-# Funders Who Can't See It: Compensation as Mission Drift
 
 Philanthropy is often reluctant to fund direct compensation for low-income community members, and that reluctance isn't a side issue for an organization whose actual work is paying people for their time and labor. The vocational school, the cooperative incubator, the community programs, all of it involves compensating people who do not usually get compensated for this kind of work. Some funders read that as mission drift, as if the "real" impact is somewhere else and the paychecks are overhead.
 
