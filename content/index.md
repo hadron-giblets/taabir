@@ -19,7 +19,7 @@ Touch, taste, explore.
 
 If you're one of the 2026–27 Taabir Fellows, this is a front door.
 
-A quick orientation: each session page is my field notes from that week of the MBA and cross-pollinates homework with lesson plan with later thoughts. Your fall syllabus runs through sessions 1–9.
+A quick orientation: each session page is my field notes from that week of the MBA and cross-pollinates homework with lesson plan with later thoughts. Your fall syllabus runs through sessions 1–9. New to gardens? [[Field Notes]] is the one-page guide to wandering this one.
 
 ## Start Here
 

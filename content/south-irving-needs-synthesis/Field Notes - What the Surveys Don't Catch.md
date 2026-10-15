@@ -1,7 +1,7 @@
 ---
 tags: [research, taabir-application]
 session: "[[Session 10 - Positioning]]"
-title: "Field Notes"
+title: "Field Notes: What the Surveys Don't Catch"
 ---
 
 Going to four settings, one open question each. None of this would surface in a conventional needs assessment.
