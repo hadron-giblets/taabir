@@ -17,9 +17,15 @@ Touch, taste, explore.
 
 ## Fellows' Entrance
 
-If you're one of the 2026–27 Taabir Fellows, this is a front door.
+If you're one of the 2026–27 Taabir Fellows, this is a front door. Each session page is my field notes from that week of the MBA — homework cross-pollinated with lesson plan and later thoughts. Your fall syllabus runs through sessions 1–9; the course below carries both arcs.
 
-A quick orientation: each session page is my field notes from that week of the MBA and cross-pollinates homework with lesson plan with later thoughts. Your fall syllabus runs through sessions 1–9. New to gardens? [[Field Notes]] is the one-page guide to wandering this one.
+### How to wander
+
+This is a garden, not a textbook, and it does not want to be read in order.
+
+- **The path, when you want one.** Start anywhere in the course and follow the ← → at each session's foot. If a week gets away from you, the hub page alone is the minimum viable session: it teaches the week, names every note with a one-line summary, and embeds exactly one in full under "if you read one."
+- **The themes, when you have a problem.** Hover any underlined link to preview a note without leaving your page. Tags — [governance](tags/governance), [research](tags/research), [fundraising](tags/fundraising) — gather every note on one theme. Backlinks in the right margin show what connects to the note you're reading.
+- **The voice.** One person's field notes, not doctrine. Argue with them — you see the author every week, and the garden gets better when someone pushes back. New to gardens? [[Field Notes]] is the one-page guide to wandering this one.
 
 ## Start Here
 
