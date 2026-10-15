@@ -6,7 +6,7 @@ session: "[[Session 3 - Principles of Next Economy Enterprises I]]"
 title: "Principle 4: Supporting Local Economy Ecosystem"
 ---
 
-**The Thesis:** Money that stays local keeps circulating instead of leaving the neighborhood. Local ownership alone is not enough, because even a locally owned business can still extract value. The real decision happens in procurement and banking choices.
+Money that stays local keeps circulating instead of leaving the neighborhood. Local ownership alone is not enough, because even a locally owned business can still extract value. The real decision happens in procurement and banking choices.
 
 **The Bylaw:** "TAABIR shall not compete against peer organizations for grants or contracts when collaboration or joint application is possible" ([[Bylaws#Abundance Practice]]). The Ecological Commitment prefers vendors and materials aligned with ecological sustainability, "even when such preference requires additional effort or nominal additional cost" ([[Bylaws#Ecological Commitment]]).
 

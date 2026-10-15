@@ -6,7 +6,7 @@ session: "[[Session 3 - Principles of Next Economy Enterprises I]]"
 title: "Principle 5: Education Embedded in Goods and Services"
 ---
 
-**The Thesis:** Teach people how to do what you do. Turn consumers into producer-consumers. Perhaps the ultimate goal is to put yourself out of business by making the community self-sufficient enough that they no longer need you.
+Teach people how to do what you do. Turn consumers into producer-consumers. Perhaps the ultimate goal is to put yourself out of business by making the community self-sufficient enough that they no longer need you.
 
 **The Bylaw:** The legal bylaws organize TAABIR "exclusively for charitable, religious, educational, and scientific purposes" ([[Bylaws of Taabir USA#I. Purpose]]), with a mission naming vocational training and cooperative business incubation as core functions. The Abundance Practice requires open knowledge: "Knowledge, tools, templates, and resources produced by TAABIR shall be shared openly with other organizations in the solidarity economy whenever possible" ([[Bylaws#Abundance Practice]]).
 
