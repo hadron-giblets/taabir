@@ -1,6 +1,6 @@
 ---
 title: The Welcome Room
-tags: [taabir-core, foundational-principle]
+tags: [taabir-core]
 session: "[[Session 1 - Economy as Need Meeting]]"
 bylaw_refs: ["[[Bylaws]]"]
 ---

@@ -1,7 +1,6 @@
 ---
 tags:
   - principle
-  - next-economy-enterprise
   - taabir-application
 session: "[[Session 4 - Principles of Next Economy Enterprises II]]"
 title: "Principle 10: Supporting Personal Growth and Development"

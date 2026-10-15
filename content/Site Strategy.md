@@ -1,5 +1,5 @@
 ---
-tags: [site-strategy, planning, taabir-core]
+tags: [site-strategy, taabir-core]
 session: "[[Session 7 - Visioning]]"
 title: "Site Strategy"
 ---

@@ -32,27 +32,34 @@ A quick orientation: each session page is my field notes from that week of the M
 - [[Fiscal Sponsorship Agreement]] - the operating layer, reproduced exactly as it exists
 - [[The Taabir Fellows]] - Cohort I, the first fellows, who now run Taabir
 
-## Sessions
+## The Course
 
-- [[Session 1 - Economy as Need Meeting|Session 1: Economy as Need-Meeting]]
-- [[Session 2 - Intro to Next Economy II|Session 2: Intro to Next Economy II]]
-- [[Session 3 - Principles of Next Economy Enterprises I|Session 3: Principles I]]
-- [[Session 4 - Principles of Next Economy Enterprises II|Session 4: Principles II]]
-- [[Session 5 - Structure|Session 5: Structure]]
-- [[Session 6 - On Life Design|Session 6: Life Design]]
-- [[Session 7 - Visioning|Session 7: Vision]]
-- [[Session 8 - Culture, Values, Team & Compensation|Session 8: Culture]]
-- [[Session 9 - Communication, Culture II|Session 9: Communication]]
-- [[Session 10 - Positioning|Session 10: Positioning]]
-- [[Session 11 - Fundraising|Session 11: Fundraising]]
-- [[Session 12a - Partnerships|Session 12a: Partnerships]]
-- [[Session 12b - Governance|Session 12b: Governance]]
-- [[Session 13 - Operations I|Session 13: Operations]]
-- [[Session 14 - Financial Systems|Session 14: Financial Systems]]
-- [[Session 15 - Marketing|Session 15: Marketing]]
-- [[Session 16 - Brand, Sales & Alignment|Session 16: Brand, Sales & Alignment]]
-- [[Session 17 - The Marrow|Session 17: The Marrow]]
-- [[Session 18 - What's Next|Session 18: What's Next]]
+Two arcs. Fall is the foundations: what the next economy is, and the ten principles that test whether an enterprise belongs to it. Spring is the operations: the positioning, money, governance, and machinery of actually keeping one alive. Every session page teaches the principle, names its notes, and reads one in full.
+
+### Fall — Foundations
+
+- <span class="session-badge">01</span>[[Session 1 - Economy as Need Meeting|Economy as Need-Meeting]] — economy as the strategies people use to meet their needs; the informal economy is the original economics
+- <span class="session-badge">02</span>[[Session 2 - Intro to Next Economy II|Intro to Next Economy II]] — scale, anchor institutions, and learning from a community before teaching it anything
+- <span class="session-badge">03</span>[[Session 3 - Principles of Next Economy Enterprises I|Principles I]] — the first five tests you can run any organization through
+- <span class="session-badge">04</span>[[Session 4 - Principles of Next Economy Enterprises II|Principles II]] — principles six through ten: knowledge, ecology, power, and people
+- <span class="session-badge">05</span>[[Session 5 - Structure|Structure]] — a nonprofit that behaves like a co-op, and the ecosystem of entities orbiting it
+- <span class="session-badge">06</span>[[Session 6 - On Life Design|Life Design]] — preferences as precondition; Taabir as infrastructure for wanting
+- <span class="session-badge">07</span>[[Session 7 - Visioning|Vision]] — vision as destination, strategy as vehicle; start with the room
+- <span class="session-badge">08</span>[[Session 8 - Culture, Values, Team & Compensation|Culture]] — values made behavioral, and pay as the honest test of what an organization believes
+- <span class="session-badge">09</span>[[Session 9 - Communication, Culture II|Communication]] — psychological safety produces more conflict, not less. good.
+
+### Spring — Operations & Growth
+
+- <span class="session-badge">10</span>[[Session 10 - Positioning|Positioning]] — the free-and-relational quadrant, and who the door is built for
+- <span class="session-badge">11</span>[[Session 11 - Fundraising|Fundraising]] — the order of operations, the capital stack, and qualifying funders in both directions
+- <span class="session-badge">12a</span>[[Session 12a - Partnerships|Partnerships]] — partnership as capital, and four tiers of trust and friction
+- <span class="session-badge">12b</span>[[Session 12b - Governance|Governance]] — consent, the seven stages, and the decision zone as protection
+- <span class="session-badge">13</span>[[Session 13 - Operations I|Operations]] — tasks not titles, and protecting the important-but-never-urgent
+- <span class="session-badge">14</span>[[Session 14 - Financial Systems|Financial Systems]] — the operating projection, cash flow discipline, open books
+- <span class="session-badge">15</span>[[Session 15 - Marketing|Marketing]] — alignment-seeking, not broadcasting; specificity over "everyone"
+- <span class="session-badge">16</span>[[Session 16 - Brand, Sales & Alignment|Brand & Sales]] — becoming a community rather than marketing to one; the alignment matrix
+- <span class="session-badge">17</span>[[Session 17 - The Marrow|The Marrow]] — no frameworks; four instructors, one argument about why any of it matters
+- <span class="session-badge">18</span>[[Session 18 - What's Next|What's Next]] — the zoom out, and "someone should build this" as an open invitation
 
 ## Research
 

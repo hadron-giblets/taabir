@@ -1,7 +1,6 @@
 ---
 tags:
   - session-reflection
-  - governance-structure
   - taabir-application
 session: 5
 title: "Session 5: Structure"

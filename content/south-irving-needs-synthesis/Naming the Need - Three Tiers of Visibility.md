@@ -1,5 +1,5 @@
 ---
-tags: [session-note, taabir-application]
+tags: [research, taabir-application]
 session: "[[Session 10 - Positioning]]"
 title: "Naming the Need: Three Tiers of Visibility"
 ---

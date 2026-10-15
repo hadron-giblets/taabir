@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundational-principle
   - next-economy
   - taabir-core
 session: 1

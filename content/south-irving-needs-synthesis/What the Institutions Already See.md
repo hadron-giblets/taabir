@@ -1,5 +1,5 @@
 ---
-tags: [session-note, taabir-application]
+tags: [research, taabir-application]
 session: "[[Session 10 - Positioning]]"
 title: "What the Institutions Already See"
 ---

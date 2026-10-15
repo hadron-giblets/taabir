@@ -118,3 +118,20 @@ h2 + ul li:has(> a[href]) {
     fill: #8fc87a;
   }
 }
+
+// Session number badges for the index
+.session-badge {
+  display: inline-block;
+  min-width: 2.1em;
+  padding: 0.08em 0.5em;
+  margin-right: 0.55em;
+  border: 1px solid var(--gray, #1e2e22);
+  border-radius: 999px;
+  color: var(--secondary, #d4ad6a);
+  font-family: var(--headerFont, Georgia);
+  font-size: 0.82em;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 0.05em;
+  transform: translateY(-0.08em);
+}

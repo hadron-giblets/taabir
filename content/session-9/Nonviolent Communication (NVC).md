@@ -1,5 +1,5 @@
 ---
-tags: [concept, glossary]
+tags: [concept]
 title: "Nonviolent Communication (NVC)"
 ---
 

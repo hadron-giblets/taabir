@@ -1,5 +1,5 @@
 ---
-tags: [concept, glossary]
+tags: [concept]
 title: "Economic Zones of Transaction"
 ---
 

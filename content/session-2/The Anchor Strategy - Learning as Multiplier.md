@@ -1,7 +1,6 @@
 ---
 tags:
   - session-reflection
-  - case-study
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
 title: "The Anchor Strategy: Learning as Multiplier"

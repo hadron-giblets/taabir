@@ -1,7 +1,6 @@
 ---
 tags:
   - essay
-  - ecosystem
   - taabir-application
 session: "[[Session 5 - Structure]]"
 title: "The Free Version of Everything"

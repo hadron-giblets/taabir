@@ -1,7 +1,6 @@
 ---
 tags:
   - session-reflection
-  - community-needs-assessment
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
 title: "The Cup of Tea, Turned Upside Down: Being Taught"

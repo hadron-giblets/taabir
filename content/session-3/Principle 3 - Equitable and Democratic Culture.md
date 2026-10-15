@@ -1,7 +1,6 @@
 ---
 tags:
   - principle
-  - next-economy-enterprise
   - taabir-application
 session: "[[Session 3 - Principles of Next Economy Enterprises I]]"
 title: "Principle 3: Equitable and Democratic Culture"

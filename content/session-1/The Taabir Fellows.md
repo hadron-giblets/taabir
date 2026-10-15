@@ -1,6 +1,6 @@
 ---
 title: The Taabir Fellows
-tags: [team, taabir-core]
+tags: [taabir-core]
 session: "[[Session 1 - Economy as Need Meeting]]"
 ---
 

@@ -1,7 +1,6 @@
 ---
 tags:
   - session-reflection
-  - scale
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
 title: "The Density Problem: Scale and Connection"

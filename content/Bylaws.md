@@ -1,6 +1,6 @@
 ---
 title: Bylaws (Community Covenant)
-tags: [bylaws, governance, foundational]
+tags: [governance]
 description: "The values layer: TAABIR's Community Covenant, born from the March 2026 gathering."
 ---
 

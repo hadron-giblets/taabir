@@ -1,7 +1,6 @@
 ---
 tags:
   - session-reflection
-  - framework-critique
   - taabir-application
 session: "[[Session 2 - Intro to Next Economy II]]"
 title: "Seed and Hospice: Radical Pragmatism"

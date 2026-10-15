@@ -1,6 +1,6 @@
 ---
 title: Burnout as Structural Failure
-tags: [foundational-principle, governance, taabir-core]
+tags: [governance, taabir-core]
 session: "[[Session 1 - Economy as Need Meeting]]"
 ---
 
