@@ -8,15 +8,15 @@ Communication is a learnable skill, and this session's core claim runs against i
 
 ## The notes
 
-**[[Why Organizations Avoid Conflict]]** — The default disease of shared-power organizations is equating cooperation with never disagreeing. Lenconi's pyramid names the cost, and the research says safety makes conflict healthier, not rarer.
+**[[Why Organizations Avoid Conflict]]** — The default disease of shared-power organizations is equating cooperation with never disagreeing. Safety makes conflict healthier, not rarer.
 
-**[[NVC Encoded in Governance]]** — The bylaws already encode observation, need, and impact: valid objections require named harm, and transformative accountability is NVC's arc at organizational scale.
+**[[NVC Encoded in Governance]]** — NVC carries values of observation, need, and impact.
 
-**[[Facilitation Essentials]]** — Structure is what makes power visible and distributed rather than silently concentrated in whoever speaks most easily. Which meeting is this; check in first; end it as a meeting.
+**[[Facilitation Essentials]]** — Structure is what makes power visible and distributed rather than silently concentrated in whoever speaks most easily.
 
-**[[Session 9 - What NVC Doesn't Say Out Loud]]** — The four steps make heat legible, they don't remove it — and the housing co-op story of the question that worked when no formal rule applied.
+**[[Session 9 - What NVC Doesn't Say Out Loud]]** — The four steps make heat legible, they don't remove it. Don't act like it doesn't make you angry.
 
-**[[Nonviolent Communication (NVC)]]** — The session's reference note: observation, feeling, need, request, plus vitality and self-connection.
+**[[Nonviolent Communication (NVC)]]** — Observation, feeling, need, request, plus vitality and self-connection.
 
 ## If you read one
 

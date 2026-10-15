@@ -8,19 +8,19 @@ Culture breaks an organization before finances do. This session's central tensio
 
 ## The notes
 
-**[[Behavioralizing Values]]** — Values only become real when they're defined as behavior across different frames of reference. Taabir's consent process is already a behavioral definition: "preferences are not objections" holds loosely what community means and tightly when someone can stop a decision.
+**[[Behavioralizing Values]]** — Values only become real when they're defined as behavior, an agreement that goes beyond individual perspectives. 
 
-**[[Interdependence, Not a Pole - The Overcorrection Trap|Interdependence, Not a Pole: The Overcorrection Trap]]** — Culture fails through competition or through consensus paralysis, and the risk for Taabir is the second. The Startup Provision exists precisely so a small team can act before it can only agree.
+**[[Interdependence, Not a Pole - The Overcorrection Trap|Interdependence, Not a Pole: The Overcorrection Trap]]** — Culture can fail through consensus paralysis.
 
-**[[Compensation as Values Made Visible]]** — Pay is the most honest test of what an organization believes. The bylaws built the container — 2:1 cap, living-wage floor, time-as-equity; the culture of talking about money together is the work that fills it.
+**[[Compensation as Values Made Visible]]** — Compensation is a value! Learn to talk about money.
 
-**[[Hiring as Invitation, Not Extraction]]** — Hire for values alignment first; the language can be taught. The Community Connector hire — someone who had already shown up — is the worked example.
+**[[Hiring as Invitation, Not Extraction]]** — Hire for values alignment first; the language can be taught.
 
-**[[Three Before Me]]** — The one candidate value that names a behavior instead of a feeling: burnout protection written as covenant, with the counterweight built in — the three attempts are never a tollbooth, and the giver's gate stays open.
+**[[How an Invitation Ends]]** — The account nobody in this genre writes down: ending a role that was nobody's fault, and what the org owes instead.
 
 ## If you read one
 
-![[Three Before Me]]
+![[Behavioralizing Values]]
 
 ## Continue
 ← [[Session 7 - Visioning]] · → [[Session 9 - Communication, Culture II]]

@@ -9,7 +9,7 @@ title: "Conditions, Not Content"
 
 This sentence from [[Session 7 - Visioning]] is a tough one: **the job is creating the conditions for other people's visions to emerge.**
 
-Other people to need to bring their visioning to Taabir to create something real, new, better than business-as-usual economics in DFW. The limited staff of Taabir is limited in visions it can sustain itself. So the resource center's main resource is not the programs themselves but the conditions to make them your own.
+Other people need to bring their visioning to Taabir to create something real, new, better than business-as-usual economics in DFW. The limited staff of Taabir is limited in visions it can sustain itself. So the resource center's main resource is not the programs themselves but the conditions to make them your own.
 
 ## What a real thing gets
 
@@ -25,9 +25,9 @@ If someone brings Taabir a real project, Taabir develops obligations:
 
 ## Role models
 
-**Highlander.** The Highlander Folk School, in New Market, TN ran a campus with beds, food, meeting halls, workshops. People brought their own fights — it hosted the Appalachian coal miners first, then the civil rights movement. Rosa Parks sat in a Highlander workshop in the summer of 1955, just months before Montgomery. Septima Clark built the citizenship schools there that taught literacy and civics for Black voters across the South. It began as a Highlander extension program, and in 1961 they were handed to the Southern Christian Leadership Conference and scaled up to about 900 schools and hundreds of thousands of new registered voters. Highlander didn't own it. It gave the resources, and it let the content leave and change the country.
+**Highlander.** The Highlander Folk School, in Monteagle, TN ran a campus with beds, food, meeting halls, workshops. People brought their own fights — it hosted the Appalachian coal miners first, then the civil rights movement. Rosa Parks sat in a Highlander workshop in the summer of 1955, just months before Montgomery. Septima Clark built the citizenship schools there that taught literacy and civics for Black voters across the South. It began as a Highlander extension program, and in 1961 they were handed to the Southern Christian Leadership Conference and scaled up to about 900 schools and hundreds of thousands of new registered voters. Highlander didn't own it. It gave the resources, and it let the content leave and change the country.
 
-The state of Tennessee knew exactly how effective it was: it revoked Highlander's charter and seized its property in 1960. The school reopened the next day under a new name and lives to this day.
+The state of Tennessee knew exactly how effective it was: it revoked Highlander's charter and seized its property in 1960. The school reopened the next day under a new name and lives to this day, now the Highlander Research and Education Center in New Market, TN.
 
 **Ujima.** In the Boston Ujima Project, it's members, not the staff, who vote on which businesses and projects get financed. The organization builds the mechanism; the community supplies the vision. Like Highlander it supplies the resources, in this case with capital instead of classrooms.
 
