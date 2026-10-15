@@ -1,7 +1,7 @@
 ---
 title: Building the Next Economy
 description: "A community space building the solidarity economy in Irving, TX."
-date: 2026-10-12
+date: 2026-10-15
 publish: true
 ---
 
@@ -17,15 +17,17 @@ Touch, taste, explore.
 
 ## Fellows' Entrance
 
-If you're one of the 2026–27 Taabir Fellows, this is a front door. Each session page is my field notes from that week of the MBA — homework cross-pollinated with lesson plan and later thoughts. Your fall syllabus runs through sessions 1–9; the course below carries both arcs.
+If you're one of the 2026–27 Taabir Fellows, this is a front door. Each session page is my field notes from that week of the MBA — homework cross-pollinated with lesson plan and later thoughts. Your fall syllabus runs through sessions 1–9.
 
-### How to wander
+### How to Wander
 
 This is a garden, not a textbook, and it does not want to be read in order.
 
-- **The path, when you want one.** Start anywhere in the course and follow the ← → at each session's foot. If a week gets away from you, the hub page alone is the minimum viable session: it teaches the week, names every note with a one-line summary, and embeds exactly one in full under "if you read one."
-- **The themes, when you have a problem.** Hover any underlined link to preview a note without leaving your page. Tags — [governance](tags/governance), [research](tags/research), [fundraising](tags/fundraising) — gather every note on one theme. Backlinks in the right margin show what connects to the note you're reading.
-- **The voice.** One person's field notes, not doctrine. Argue with them — you see the author every week, and the garden gets better when someone pushes back. New to gardens? [[Field Notes]] is the one-page guide to wandering this one.
+Start anywhere in the course and follow the ← → at each session's foot. If a week gets away from you, the hub page alone is the quickest summary: it teaches the week, gives a one-line summary of every related note, and gives you the most important one to read.
+
+Hover any underlined link to preview a note without leaving your page. Tags — [governance](tags/governance), [research](tags/research), [fundraising](tags/fundraising) — gather every note on one theme. Backlinks in the right margin show what connects to the note you're reading.
+
+There's a lot of opinion in here. Please push back where you please.
 
 ## Start Here
 
@@ -40,34 +42,36 @@ This is a garden, not a textbook, and it does not want to be read in order.
 
 ## The Course
 
-Two arcs. Fall is the foundations: what the next economy is, and the ten principles that test whether an enterprise belongs to it. Spring is the operations: the positioning, money, governance, and machinery of actually keeping one alive. Every session page teaches the principle, names its notes, and reads one in full.
+Cut in half. Fall is the foundations: what the next economy is, and the ten principles that test whether you're really building it. Spring is all operations: the positioning, money, governance, and systems to keep it alive.
 
 ### Fall — Foundations
 
-- <span class="session-badge">01</span>[[Session 1 - Economy as Need Meeting|Economy as Need-Meeting]] — economy as the strategies people use to meet their needs; the informal economy is the original economics
-- <span class="session-badge">02</span>[[Session 2 - Intro to Next Economy II|Intro to Next Economy II]] — scale, anchor institutions, and learning from a community before teaching it anything
-- <span class="session-badge">03</span>[[Session 3 - Principles of Next Economy Enterprises I|Principles I]] — the first five tests you can run any organization through
-- <span class="session-badge">04</span>[[Session 4 - Principles of Next Economy Enterprises II|Principles II]] — principles six through ten: knowledge, ecology, power, and people
-- <span class="session-badge">05</span>[[Session 5 - Structure|Structure]] — a nonprofit that behaves like a co-op, and the ecosystem of entities orbiting it
-- <span class="session-badge">06</span>[[Session 6 - On Life Design|Life Design]] — preferences as precondition; Taabir as infrastructure for wanting
-- <span class="session-badge">07</span>[[Session 7 - Visioning|Vision]] — vision as destination, strategy as vehicle; start with the room
-- <span class="session-badge">08</span>[[Session 8 - Culture, Values, Team & Compensation|Culture]] — values made behavioral, and pay as the honest test of what an organization believes
-- <span class="session-badge">09</span>[[Session 9 - Communication, Culture II|Communication]] — psychological safety produces more conflict, not less. good.
+- <span class="session-badge">01</span>[[Session 1 - Economy as Need Meeting|Economy as Need-Meeting]]
+- <span class="session-badge">02</span>[[Session 2 - Intro to Next Economy II|Intro to Next Economy II]]
+- <span class="session-badge">03</span>[[Session 3 - Principles of Next Economy Enterprises I|Principles I]]
+- <span class="session-badge">04</span>[[Session 4 - Principles of Next Economy Enterprises II|Principles II]]
+- <span class="session-badge">05</span>[[Session 5 - Structure|Structure]]
+- <span class="session-badge">06</span>[[Session 6 - On Life Design|Life Design]]
+- <span class="session-badge">07</span>[[Session 7 - Visioning|Vision]]
+- <span class="session-badge">08</span>[[Session 8 - Culture, Values, Team & Compensation|Culture]]
+- <span class="session-badge">09</span>[[Session 9 - Communication, Culture II|Communication]]
 
 ### Spring — Operations & Growth
 
-- <span class="session-badge">10</span>[[Session 10 - Positioning|Positioning]] — the free-and-relational quadrant, and who the door is built for
-- <span class="session-badge">11</span>[[Session 11 - Fundraising|Fundraising]] — the order of operations, the capital stack, and qualifying funders in both directions
-- <span class="session-badge">12a</span>[[Session 12a - Partnerships|Partnerships]] — partnership as capital, and four tiers of trust and friction
-- <span class="session-badge">12b</span>[[Session 12b - Governance|Governance]] — consent, the seven stages, and the decision zone as protection
-- <span class="session-badge">13</span>[[Session 13 - Operations I|Operations]] — tasks not titles, and protecting the important-but-never-urgent
-- <span class="session-badge">14</span>[[Session 14 - Financial Systems|Financial Systems]] — the operating projection, cash flow discipline, open books
-- <span class="session-badge">15</span>[[Session 15 - Marketing|Marketing]] — alignment-seeking, not broadcasting; specificity over "everyone"
-- <span class="session-badge">16</span>[[Session 16 - Brand, Sales & Alignment|Brand & Sales]] — becoming a community rather than marketing to one; the alignment matrix
-- <span class="session-badge">17</span>[[Session 17 - The Marrow|The Marrow]] — no frameworks; four instructors, one argument about why any of it matters
-- <span class="session-badge">18</span>[[Session 18 - What's Next|What's Next]] — the zoom out, and "someone should build this" as an open invitation
+- <span class="session-badge">10</span>[[Session 10 - Positioning|Positioning]]
+- <span class="session-badge">11</span>[[Session 11 - Fundraising|Fundraising]]
+- <span class="session-badge">12a</span>[[Session 12a - Partnerships|Partnerships]]
+- <span class="session-badge">12b</span>[[Session 12b - Governance|Governance]]
+- <span class="session-badge">13</span>[[Session 13 - Operations I|Operations]] 
+- <span class="session-badge">14</span>[[Session 14 - Financial Systems|Financial Systems]]
+- <span class="session-badge">15</span>[[Session 15 - Marketing|Marketing]]
+- <span class="session-badge">16</span>[[Session 16 - Brand, Sales & Alignment|Brand & Sales]]
+- <span class="session-badge">17</span>[[Session 17 - The Marrow|The Marrow]] 
+- <span class="session-badge">18</span>[[Session 18 - What's Next|What's Next]]
 
 ## Research
 
-[[South Irving Needs Synthesis]] - field research on what South Irving has already told the city it needs.
+[[South Irving Needs Synthesis]] - field research on South Irving's known needs.
 [[Three Governance Documents]] - the governance reading guide.
+
+
