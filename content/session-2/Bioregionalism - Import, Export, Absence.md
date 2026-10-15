@@ -8,7 +8,7 @@ title: "Bioregionalism: Import, Export, Absence"
 
 DFW is not really a bioregion. It is a metro area that sits at the edge of the Blackland Prairie ecoregion and the Eastern Cross Timbers, cut through by the Trinity River watershed, which is what more ecologically binds our region together. But we will just call it DFW, a big and recognizable shape.
 
-DFW is not resource-poor. It is a huge, wealthy, well-connected metro, and most of the goods or services we want and need exist somewhere in the region. But the resources we produce here are usually not used close to where they are needed.
+DFW is a huge, wealthy, well-connected metro, and most of the goods or services we want and need exist somewhere in the region. But the resources we produce here are usually not used close to where they are needed.
 
 Energy I think most of all! Natural gas generates the largest share of ERCOT's power, and DFW's own footprint includes Comanche Peak, a nuclear plant just southwest of Fort Worth, so some baseload generation is close by. But wind is a West Texas and Panhandle resource, imported over transmission lines, and solar is similar: utility-scale solar farms cluster where land is cheap and consistently sunny, mostly west and south of DFW. The sun that falls on DFW rooftops every day is a locally abundant resource that has barely been built out because of the market structure.
 

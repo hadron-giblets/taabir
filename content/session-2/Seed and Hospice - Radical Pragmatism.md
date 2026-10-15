@@ -6,11 +6,11 @@ session: "[[Session 2 - Intro to Next Economy II]]"
 title: "Seed and Hospice: Radical Pragmatism"
 ---
 
-The Two Loops framework says the old economy is dying while a new one is being born, and both processes need resources, workers, and funders. Some of what we do reduces harm in the dying system. Some of it builds the alternative. Some of what we do reduces harm in the dying system; some of it builds the alternative.
+The Two Loops framework says the old economy is dying while a new one is being born, and both processes need resources, workers, and funders. Some of what we do reduces harm in the dying system. Some of it builds the alternative.
 
 Where this framework makes me shiver a little: the course calls these two processes "hospice" and "midwifery." This language is loaded enough that it can obscure the actual practical question.
 
-Maybe a sweeter version is to think of the old economy as compost. Decaying, yes, but rich. Everything that breaks down becomes nutrients for what grows next.
+Maybe a sweeter version is to think of the old economy as compost. Decaying, yes, but rich. Let's salvage the things that break down and have them become nutrients for what grows next.
 
 That is where the pragmatism comes in. Taabir has to make money. It cannot survive on goodwill, stipends, and unreliable grant cycles, and it cannot be wholly dependent on an investor class either. That means some of what Taabir does will look like business as usual: co-working desk rentals, a café that sells coffee, vocational training that charges fees or accepts vouchers.
 
